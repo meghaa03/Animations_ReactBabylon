@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  float: left;
+  margin: 0px;
+
+}
+
+.main{
+  height: 90%;
+  width: 100%;
+}
+
+.header{
+  height: 10%;
+ 
+}
+
+p{
+  background-color: black;
+  color: white;
+}
+h3{
+  color: darkblue;
+}
+
+.footer{ 
+  height: 10%;
+  width:100%;
+  background-color:rgba(0, 0, 0, 1);
+  align-items: center;
+}
+
+.mainScene{
+  height: 90%;
+  width: 100%;
+}
+
+Button{
+  margin: 10px;
+}
+
+.file{
+  display: none;
+}
+
+
+
+#sample-canvas{
+  height:100%;
+  width: 100%;
+}
