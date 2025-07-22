@@ -16,14 +16,14 @@
     "compressing": "^1.5.1",
     "file-system": "^2.2.2",
     "fs": "0.0.1-security",
-    "npm": "^6.14.4",
+    "npm": "^11.4.2",
     "react": "^16.12.0",
     "react-babylonjs": "^2.0.2",
     "react-bootstrap": "^1.0.0",
     "react-dom": "^16.12.0",
     "react-reconciler": "^0.24.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "styled-components": "^5.0.0"
   },
   "scripts": {
